@@ -118,6 +118,6 @@ body {
     padding: 13px;
 }
 
-#rowsize{margin:0px;padding:0px}
+#rowsize{width: 100vw;margin:0px;padding:0px}
 iframe{width: 100vw;margin:0px;padding:0px}
-#colsize{margin:0px;padding:0px}
+#colsize{width: 100vw;margin:0px;padding:0px}
